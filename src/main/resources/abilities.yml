@@ -1,0 +1,15 @@
+fireball:
+
+  display:
+    name: "&6Fireball"
+
+  cooldown: 10
+
+  description:
+    - "&7Sneak and Right Click"
+    - "&7to launch a fireball."
+
+  settings:
+    velocity: 2.0
+    yield: 2
+    ignite: false

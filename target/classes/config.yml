@@ -1,0 +1,11 @@
+stone:
+  trigger:
+    type: STATISTIC
+    statistic: MINE_BLOCK
+    target: STONE
+
+  requirements:
+    helmet: 10
+    chestplate: 20
+    leggings: 30
+    boots: 40 

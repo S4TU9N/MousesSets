@@ -1,0 +1,10 @@
+name: MousesSets
+version: 1.0
+main: me.mouseman.mousessets.MousesSetsPlugin
+api-version: "1.21"
+
+commands:
+  mousessets:
+    description: Main command for MousesSets
+    aliases: [ms, sets]
+    usage: /mousessets reload

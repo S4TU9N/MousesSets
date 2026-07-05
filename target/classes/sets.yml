@@ -1,0 +1,23 @@
+stone:
+  trigger:
+    type: BLOCK_MINED
+    statistic: MINE_BLOCK
+    target: STONE
+
+  requirements:
+    helmet: 10
+    chestplate: 20
+    leggings: 30
+    boots: 40
+
+blaze:
+  trigger:
+    type: ENTITY_KILLED
+    statistic: MOB_KILLS
+    target: BLAZE
+
+  requirements:
+    helmet: 1
+    chestplate: 2
+    leggings: 3
+    boots: 4

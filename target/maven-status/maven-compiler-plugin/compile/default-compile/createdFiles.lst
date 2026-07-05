@@ -1,0 +1,8 @@
+me\mouseman\mousessets\definitions\MilestoneSet.class
+me\mouseman\mousessets\managers\ProgressService.class
+me\mouseman\mousessets\managers\SetManager.class
+me\mouseman\mousessets\MousesSetsPlugin.class
+me\mouseman\mousessets\listeners\BlockBreakListener.class
+me\mouseman\mousessets\definitions\StatType.class
+me\mouseman\mousessets\definitions\DropSet.class
+me\mouseman\mousessets\managers\SetLoader.class
